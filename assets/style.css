@@ -1,0 +1,22 @@
+*{
+ 
+    box-sizing: border-box;
+}
+
+body{
+    margin-top: 30px;
+    text-align: center;
+
+    
+}
+
+.title{
+    color: fuchsia;
+}
+
+.floater{
+    float: left;
+     ;
+}
+   
+ 
